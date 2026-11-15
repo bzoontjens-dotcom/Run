@@ -19,9 +19,9 @@ Je sessies worden alleen op je eigen toestel bewaard; er is geen account en geen
 
 ## Op je iPhone zetten
 
-De app is een web-app die je als app op je beginscherm zet:
+De app staat op <https://run-door-europa.netlify.app> en is een web-app die je als app op je beginscherm zet:
 
-1. Open het adres van de app in **Safari**.
+1. Open dat adres in **Safari**.
 2. Tik op de deelknop en kies **Zet op beginscherm**.
 3. Start de app voortaan via het icoon; hij opent dan schermvullend, zonder adresbalk.
 
