@@ -18,8 +18,11 @@ tot de Sneeuwtoren van 20.000 meter.
 
 De voortgang staat op het apparaat zelf en, met de **spelcode**, ook op de server. Zo is de
 stand op elke telefoon, tablet en computer gelijk. De spelcode zit in de link
-(`…/#spel=CODE`) of vul je één keer in via het scorebord. Per speler wint de stand met de
+(`…/?spel=CODE`) of vul je één keer in via het scorebord. Per speler wint de stand met de
 meeste wijzigingen.
+
+Het app-manifest heeft bewust geen vaste startpagina: zo onthoudt een snelkoppeling op het
+beginscherm de link mét spelcode waarmee hij is gemaakt.
 
 De code zelf staat niet in deze repository: hij is bij de Netlify-site ingesteld als
 omgevingsvariabele `SPELCODE`.

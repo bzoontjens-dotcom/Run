@@ -3,8 +3,6 @@
   "short_name": "Sneeuwtoren",
   "description": "Het ski-spel van Felix en Tommy.",
   "lang": "nl",
-  "start_url": ".",
-  "scope": ".",
   "display": "standalone",
   "background_color": "#4fb9f2",
   "theme_color": "#3aa7ee",

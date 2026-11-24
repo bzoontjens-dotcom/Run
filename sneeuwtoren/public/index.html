@@ -1669,7 +1669,7 @@ $('codeForm').addEventListener('submit', (e) => {
   renderCloud(); cloud('GET');
 });
 $('btnLink').addEventListener('click', async () => {
-  const link = location.origin + location.pathname + '#spel=' + Cloud.code;
+  const link = location.origin + location.pathname + '?spel=' + Cloud.code;
   try { await navigator.clipboard.writeText(link); toast('Link gekopieerd'); }
   catch (err) { toast(link); }
 });
